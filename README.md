@@ -2,7 +2,7 @@
 ##### PC 3 - Lenguaje de programación 2
 
 ### Integrantes:
-Arroyo Jaimes, Diego Julio
+Arroyo Jaimes, Diego Julio n/
 user github: diegoarroyounalm
 
 Cabezudo Meza, Ismael Alexis
